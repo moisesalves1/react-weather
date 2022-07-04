@@ -28,7 +28,7 @@ function App() {
 
       <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4">
         <a className="navbar-brand text-white ms-2" href="#top">
-          Moises Previsão do Tempo
+         Previsão do Tempo
         </a>
       </nav>
 
